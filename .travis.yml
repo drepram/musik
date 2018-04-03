@@ -5,7 +5,8 @@ node_js:
 cache:
   directories:
     - node_modules/
+    - dist/
 install:
   - npm install
 after_success:
-  - surge
+  - surge --project . --domain musik.surge.sh
