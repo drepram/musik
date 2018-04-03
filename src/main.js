@@ -6,7 +6,7 @@ import 'buefy/lib/buefy.css';
 
 Vue.use(Buefy);
 
-new Vue({
+window.vm = new Vue({
   el: '#app',
   render: h => h(App)
 })
