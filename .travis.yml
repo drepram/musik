@@ -8,4 +8,4 @@ cache:
 install:
   - npm install
 after_success:
-  - surge --project . --domain musik.surge.sh
+  - surge
