@@ -5,8 +5,10 @@ node_js:
 cache:
   directories:
     - node_modules/
-    - dist/
 install:
   - npm install
-after_success:
-  - surge --project . --domain musik.surge.sh
+deploy:
+  provider: surge
+  project: ./
+  domain: musik.surge.sh
+  skip_cleanup: true
