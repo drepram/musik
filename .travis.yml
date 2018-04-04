@@ -9,6 +9,6 @@ install:
   - npm install
 deploy:
   provider: surge
-  project: ./
+  project: ./dist/
   domain: musik.surge.sh
   skip_cleanup: true
