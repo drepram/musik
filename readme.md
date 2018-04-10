@@ -1,5 +1,5 @@
 # musik.surge.sh
-<img src="https://travis-ci.org/caxvis/musik.svg?branch=master" alt="Travis Build Status">
+[![Build Status](https://travis-ci.org/caxvis/musik.svg?branch=master)](https://travis-ci.org/caxvis/musik)
 
 My music collection. Thank's a lot **Genius**.
 
@@ -9,7 +9,7 @@ Version : **0.2.0**
 
 - Amen, Rich Brian, February 2, 2018
 - In Tongues, Joji, November 3, 2017
-- After Laughter, Paramore,May 12, 2017
+- After Laughter, Paramore, May 12, 2017
 - The Click, AJR, June 9, 2017
 - Death of a Bachelor, Panic! At The Disco, January 15, 2016
 - Dead, Blackbear, June 2, 2015
