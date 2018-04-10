@@ -1,4 +1,5 @@
 # musik.surge.sh
+<img src="https://travis-ci.org/caxvis/musik.svg?branch=master" alt="Travis Build Status">
 
 My music collection. Thank's a lot **Genius**.
 
