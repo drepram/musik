@@ -2,6 +2,8 @@
 
 My music collection. Thank's a lot **Genius**.
 
+Version : **0.2.0**
+
 ## Current Songs
 
 - Amen, Rich Brian, February 2, 2018
