@@ -8,7 +8,7 @@ Version : **0.2.2**
 ## Current Songs
 
 Album/EP Name | Artist | Release Date | Rating
----|---|---
+---|---|---|---
 Amen|Rich Brian|February 2, 2018|14/14
 In Tongues|Joji|November 3, 2017|6/6
 After Laughter|Paramore|May 12, 2017|11/12
