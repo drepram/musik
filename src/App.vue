@@ -10,8 +10,8 @@
       <div class="columns">
       	<div class="column" v-for="collection in collections2">
       		<img :src="collection.art" :alt="collection.title" class="collection-image">
-      		<h3 class="title is-5 collection-title">{{ collection.title }}</h3>
-      		<h6 class="subtitle is-5 collection-release-date">{{ collection.date }}</h6>
+      		<h3 class="title is-6 collection-title">{{ collection.title }}</h3>
+      		<h6 class="subtitle is-6 collection-release-date">{{ collection.date }}</h6>
       		<h6 class="subtitle is-6">{{ collection.artist }} | <span class="tag is-rounded is-dark">{{ collection.rating }}</span></h6>
       		<a class="button is-warning is-medium is-rounded is-focused has-text-weight-light" :href="collection.link" target="_blank">View on Genius</a>
       	</div>
@@ -20,8 +20,8 @@
       <div class="columns">
       	<div class="column" v-for="collection in collections1">
       		<img :src="collection.art" :alt="collection.title" class="collection-image">
-      		<h3 class="title is-5 collection-title">{{ collection.title }}</h3>
-      		<h6 class="subtitle is-5 collection-release-date">{{ collection.date }}</h6>
+      		<h3 class="title is-6 collection-title">{{ collection.title }}</h3>
+      		<h6 class="subtitle is-6 collection-release-date">{{ collection.date }}</h6>
       		<h6 class="subtitle is-6">{{ collection.artist }} | <span class="tag is-rounded is-dark">{{ collection.rating }}</span></h6>
       		<a class="button is-warning is-medium is-rounded is-focused has-text-weight-light" :href="collection.link" target="_blank">View on Genius</a>
       	</div>
