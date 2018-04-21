@@ -4,7 +4,7 @@
       <img src="./assets/logo.png" class="main-logo">
       <br>
       <div class="content" id="intro-text">
-      	<h3 class="title">Andre Shahan's music collection. <br><br>Album art's are taken from <span id="genius-link">Genius</span>. Rating's are based on total songs I liked on the Album/EP.</h3>
+      	<h3 class="title">Andre Sion's music collection. <br><br>Album art's are taken from <span id="genius-link">Genius</span>. Rating's are based on total songs I liked on the Album/EP.</h3>
       </div>
       <br>
       <div class="columns">
