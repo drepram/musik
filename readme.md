@@ -17,7 +17,7 @@ Death of a Bachelor|Panic! At The Disco|January 15, 2016|11/11
 Dead|Blackbear|June 2, 2015|5/5
 She's Only Sixteen|She's Only Sixteen|September 28, 2012|5/5
 Me and My Uke|Never Shout Never|2009|3/3
-The Black Parade|My Chemical Romance|October 23, 2006|7/14
+The Black Parade|My Chemical Romance|October 23, 2006|14/14
 I'm Wide Awake, It's Morning|Bright Eyes|January 25, 2005|9/10
 
 ## Technologies
