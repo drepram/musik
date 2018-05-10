@@ -106,7 +106,7 @@ export default {
 				{ 
 					title: `The Black Parade`,
 					artist: `My Chemical Romance`,
-					rating: `7/14`,
+					rating: `14/14`,
 					date: `October 23, 2006`,
 					art: `https://t2.genius.com/unsafe/300x0/https%3A%2F%2Fimages.genius.com%2F23c0dc0c254bda53c93e044b6b66eb74.640x640x1.jpg`,
 					link: `https://genius.com/albums/My-chemical-romance/The-black-parade`
