@@ -30,13 +30,12 @@
   </div>
 </template>
 
-<script src="assets/fire.js"></script>
 <script>
 export default {
   name: 'app',
   data () {
     return {
-    		collections2: [
+	    		collections2: [
 				{ 
 					title: `Amen`,
 					artist: `Rich Brian`,
