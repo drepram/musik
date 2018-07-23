@@ -8,6 +8,16 @@
       </div>
       <br>
       <div class="columns">
+      	<div class="column" v-for="collection in collections3">
+      		<img :src="collection.art" :alt="collection.title" class="collection-image">
+      		<h3 class="title is-6 collection-title">{{ collection.title }}</h3>
+      		<h6 class="subtitle is-6 collection-release-date">{{ collection.date }}</h6>
+      		<h6 class="subtitle is-6">{{ collection.artist }} | <span class="tag is-rounded is-dark">{{ collection.rating }}</span></h6>
+      		<a class="button is-warning is-medium is-rounded is-focused has-text-weight-light" :href="collection.link" target="_blank">View on Genius</a>
+      	</div>
+      </div>
+      <br>
+      <div class="columns">
       	<div class="column" v-for="collection in collections2">
       		<img :src="collection.art" :alt="collection.title" class="collection-image">
       		<h3 class="title is-6 collection-title">{{ collection.title }}</h3>
@@ -35,6 +45,40 @@ export default {
   name: 'app',
   data () {
     return {
+	    		collections3: [
+				{ 
+					title: `Dear`,
+					artist: `Cavetown`,
+					rating: `4/4`,
+					date: `June 29, 2018`,
+					art: `https://t2.genius.com/unsafe/300x0/https%3A%2F%2Fimages.genius.com%2Fa8895f24545ffeb5d318dace7471bf5d.700x700x1.jpg`,
+					link: `https://genius.com/albums/Cavetown/Dear`
+				},
+				{ 
+					title: `Make My Bed`,
+					artist: `King Princess`,
+					rating: `5/5`,
+					date: `June 15, 2018`,
+					art: `https://t2.genius.com/unsafe/300x0/https%3A%2F%2Fimages.genius.com%2F744ab83a4b178118c4b4145c84549a36.500x500x1.jpg`,
+					link: `https://genius.com/albums/King-princess/Make-my-bed-ep`
+				},
+				{ 
+					title: `Father`,
+					artist: `August 08`,
+					rating: `8/8`,
+					date: `May 11, 2018`,
+					art: `https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2F347371b052264c0ff1ac9862f2a6d94b.1000x1000x1.jpg`,
+					link: `https://genius.com/albums/August-08/Father`
+				},
+				{ 
+					title: `My Dear Melancholy,`,
+					artist: `The Weeknd`,
+					rating: `6/6`,
+					date: `March 30, 2018`,
+					art: `https://t2.genius.com/unsafe/300x0/https%3A%2F%2Fimages.genius.com%2F3a47f80d23cb3eb22c6c32af519420a3.640x640x1.png`,
+					link: `https://genius.com/albums/The-weeknd/My-dear-melancholy`
+				},
+			],
 	    		collections2: [
 				{ 
 					title: `Amen`,
