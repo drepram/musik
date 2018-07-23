@@ -12,6 +12,6 @@ script:
   - vuepress build
 deploy:
   provider: surge
-  project: .vuepress/
+  project: .vuepress/dist/
   domain: musik.surge.sh
   skip_cleanup: true
