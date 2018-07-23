@@ -8,9 +8,9 @@ cache:
 install:
   - npm install
 script:
-  - npm run build
+  - vuepress build
 deploy:
   provider: surge
-  project: ./
+  project: .vuepress/
   domain: musik.surge.sh
   skip_cleanup: true
