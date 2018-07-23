@@ -1,0 +1,25 @@
+{
+  "name": "musik",
+  "version": "1.0.0",
+  "description": "Andre Sion's music collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caxvis/musik.git"
+  },
+  "keywords": [
+    "music",
+    "musik",
+    "vue",
+    "vuepress"
+  ],
+  "author": "Andre Sion <caxvis@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/caxvis/musik/issues"
+  },
+  "homepage": "https://github.com/caxvis/musik#readme"
+}
