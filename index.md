@@ -27,7 +27,6 @@ album's & ep's that i liked, read the <a href="/about.html">>about page</a> for 
 
 ```
 By : Cavetown
-Rating : 4/4
 Released : June 29, 2018
 ```
 
@@ -42,7 +41,6 @@ Released : June 29, 2018
 
 ```
 By : King Princess
-Rating : 5/5
 Released : June 15, 2018
 ```
 
@@ -57,7 +55,6 @@ Released : June 15, 2018
 
 ```
 By : August 08
-Rating : 8/8
 Released : May 11, 2018
 ```
 
@@ -72,7 +69,6 @@ Released : May 11, 2018
 
 ```
 By : The Weeknd
-Rating : 6/6
 Released : March 30, 2018
 ```
 
@@ -87,7 +83,6 @@ Released : March 30, 2018
 
 ```
 By : Rich Brian
-Rating : 14/14
 Released : February 2, 2018
 ```
 
@@ -102,7 +97,6 @@ Released : February 2, 2018
 
 ```
 By : Joji
-Rating : 6/6
 Released : November 3, 2017
 ```
 
@@ -117,7 +111,6 @@ Released : November 3, 2017
 
 ```
 By : Paramore
-Rating : 11/12
 Released : May 12, 2017
 ```
 
@@ -132,7 +125,6 @@ Released : May 12, 2017
 
 ```
 By : AJR
-Rating : 11/13
 Released : June 9, 2017
 ```
 
@@ -147,7 +139,6 @@ Released : June 9, 2017
 
 ```
 By : Panic! At The Disco
-Rating : 11/11
 Released : January 15, 2016
 ```
 
@@ -162,7 +153,6 @@ Released : January 15, 2016
 
 ```
 By : Blackbear
-Rating : 5/5
 Released : June 2, 2015
 ```
 
@@ -177,7 +167,6 @@ Released : June 2, 2015
 
 ```
 By : She's Only Sixteen
-Rating : 5/5
 Released : September 28, 2012
 ```
 
@@ -192,7 +181,6 @@ Released : September 28, 2012
 
 ```
 By : Never Shout Never
-Rating : 3/3
 Released : 2009
 ```
 
@@ -207,7 +195,6 @@ Released : 2009
 
 ```
 By : My Chemical Romance
-Rating : 14/14
 Released : October 23, 2006
 ```
 
@@ -222,7 +209,6 @@ Released : October 23, 2006
 
 ```
 By : Bright Eyes
-Rating : 9/10
 Released : January 25, 2005
 ```
 
