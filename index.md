@@ -3,21 +3,21 @@
 album's & ep's that i liked, read the <a href="/about.html">about page</a> for more info.
 
 <style>
-	.img-album {
-		margin-bottom: 5%;
-		-webkit-box-shadow: 0 8px 6px -6px black;
-	   	-moz-box-shadow: 0 8px 6px -6px black;
-	    	box-shadow: 0 8px 6px -6px black;
-	    	filter: grayscale(1);
-	    	border-radius: 5px;
-	}
-	.img-album:hover {
-		filter: none;
-	}
-	.link-genius {
-		font-weight: bold;
-		text-decoration: none !important;
-	}
+.img-album {
+	margin-bottom: 5%;
+	-webkit-box-shadow: 0 8px 6px -6px black;
+   	-moz-box-shadow: 0 8px 6px -6px black;
+    	box-shadow: 0 8px 6px -6px black;
+    	filter: grayscale(1);
+    	border-radius: 5px;
+}
+.img-album:hover {
+	filter: none;
+}
+.link-genius {
+	font-weight: bold;
+	text-decoration: none !important;
+}
 </style>
 
 ### Head in the Clouds
