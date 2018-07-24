@@ -48,6 +48,19 @@ Released : June 29, 2018
 <center><a href="https://genius.com/albums/Cavetown/Dear" target="_blank" class="link-genius">View on Genius</a>
 </center>
 
+### Pray for the Wicked
+<br>
+<center><img src="https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2Fe269f3f148921176e1c88247c2a58b7b.1000x1000x1.jpg" class="img-album"></center>
+<br>
+
+```
+By : Panic! at the Disco
+Released : Released June 22, 2018
+```
+<br>
+<center><a href="https://genius.com/albums/Panic-at-the-disco/Pray-for-the-wicked" target="_blank" class="link-genius">View on Genius</a>
+</center>
+
 ### Make My Bed
 <br>
 <center><img src="https://t2.genius.com/unsafe/300x0/https%3A%2F%2Fimages.genius.com%2F744ab83a4b178118c4b4145c84549a36.500x500x1.jpg" class="img-album"></center>
@@ -60,6 +73,19 @@ Released : June 15, 2018
 
 <br>
 <center><a href="https://genius.com/albums/King-princess/Make-my-bed-ep" target="_blank" class="link-genius">View on Genius</a>
+</center>
+
+### Zephyr
+<br>
+<center><img src="https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2F9e2c4ade805b414bb4660f00ce69c45b.1000x1000x1.jpg" class="img-album"></center>
+<br>
+
+```
+By : NIKI
+Released : May 23, 2018
+```
+<br>
+<center><a href="https://genius.com/albums/Niki/Zephyr" target="_blank" class="link-genius">View on Genius</a>
 </center>
 
 ### Father
@@ -88,6 +114,19 @@ Released : March 30, 2018
 
 <br>
 <center><a href="https://genius.com/albums/The-weeknd/My-dear-melancholy" target="_blank" class="link-genius">View on Genius</a>
+</center>
+
+### Episode 1 - EP
+<br>
+<center><img src="https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2F0f1451cb81933755d944dfb1e2a4557c.1000x1000x1.jpg" class="img-album"></center>
+<br>
+
+```
+By : Jacob Sigman
+Released : 9 March 2018
+```
+<br>
+<center><a href="https://genius.com/albums/Jacob-sigman/Episode-1-ep" target="_blank" class="link-genius">View on Genius</a>
 </center>
 
 ### Amen
