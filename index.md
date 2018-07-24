@@ -123,7 +123,7 @@ Released : March 30, 2018
 
 ```
 By : Jacob Sigman
-Released : 9 March 2018
+Released : March 9, 2018
 ```
 <br>
 <center><a href="https://genius.com/albums/Jacob-sigman/Episode-1-ep" target="_blank" class="link-genius">View on Genius</a>
