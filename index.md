@@ -185,6 +185,19 @@ Released : June 9, 2017
 <center><a href="https://genius.com/albums/Ajr/The-click" target="_blank" class="link-genius">View on Genius</a>
 </center>
 
+### Apricot Princess
+<br>
+<center><img src="https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2F79d3d4d35a97c5c0d49a09cee73cf030.1000x1000x1.jpg" class="img-album"></center>
+<br>
+
+```
+By : Rex Orange County
+Released : Released April 26, 2017
+```
+<br>
+<center><a href="https://genius.com/albums/Rex-orange-county/Apricot-princess" target="_blank" class="link-genius">View on Genius</a>
+</center>
+
 ### Death of a Bachelor
 <br>
 <center><img src="https://t2.genius.com/unsafe/300x0/https%3A%2F%2Fimages.genius.com%2F436abd0ff115d7f1e6566400223b272b.1000x1000x1.jpg" class="img-album"></center>
