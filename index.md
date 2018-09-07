@@ -1,6 +1,6 @@
 # My Music Collection
 
-album's & ep's that i liked, read the <a href="/about.html">about page</a> for more info.
+a collection of the album's & ep's that i liked, read the <a href="/about.html">about page</a> for more info.
 
 <style>
 .img-album {

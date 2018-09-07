@@ -5,8 +5,8 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about' },
-      { text: 'Repo', link: 'https://github.com/caxvis/musik' },
-      { text: 'Author', link: 'https://andre.js.org' }
+      // { text: 'Repo', link: 'https://github.com/caxvis/musik' },
+      { text: 'Author', link: 'https://andre.sion.life.org' }
     ],
     // head: [
     //     ['link', { rel: 'icon', href: `/logo.png` }],
