@@ -7,7 +7,7 @@ cache:
     - node_modules/
 install:
   - npm install
-  - npm install -g vuepress
+  - npm install -g vuepress@0.14.2
 script:
   - vuepress build
 deploy:
