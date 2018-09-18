@@ -20,6 +20,19 @@ a collection of the album's & ep's that i liked, read the <a href="/about.html">
 }
 </style>
 
+### Rabbit Hearted.
+<br>
+<center><img src="https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2Fefea6158dc39ad60f83e52b20e1245ae.999x999x1.jpg" class="img-album"></center>
+<br>
+
+```
+By : Chloe Moriondo
+Released : Aug 15, 2018
+```
+<br>
+<center><a href="https://genius.com/albums/Chloe-moriondo/Rabbit-hearted" target="_blank" class="link-genius">View on Genius</a>
+</center>
+
 ### Head in the Clouds
 <br>
 <center><img src="https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2F9ee552083d2bfce3ba950b3ee32b5e28.1000x1000x1.jpg" class="img-album"></center>
