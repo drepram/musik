@@ -6,7 +6,7 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about' },
       // { text: 'Repo', link: 'https://github.com/caxvis/musik' },
-      { text: 'Author', link: 'https://andre.sion.life.org' }
+      { text: 'Author', link: 'https://andre.sion.life' }
     ],
     // head: [
     //     ['link', { rel: 'icon', href: `/logo.png` }],
