@@ -4,3 +4,10 @@
 My music collection. Thank's a lot **Genius**.
 
 Version : **3.0.0**
+
+## technologies
+
+- vue
+- vuepress
+- travis
+- surge
