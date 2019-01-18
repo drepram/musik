@@ -1,12 +1,11 @@
 module.exports = {
   title: 'musik',
-  description: `Andre Sion's music collection`,
+  description: `Andre Pramaditya's music collection`,
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about' },
-      // { text: 'Repo', link: 'https://github.com/caxvis/musik' },
-      { text: 'Author', link: 'https://andre.sion.life' }
+      { text: 'Author', link: 'https://acp.github.io' }
     ],
     // head: [
     //     ['link', { rel: 'icon', href: `/logo.png` }],
