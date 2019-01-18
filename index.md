@@ -20,6 +20,19 @@ a collection of the album's & ep's that i liked, read the <a href="/about.html">
 }
 </style>
 
+### ​we
+<br>
+<center><img src="https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2Faf4191335f89855e45b5faa453fc3183.1000x1000x1.jpg" class="img-album"></center>
+<br>
+
+```
+By : ​gnash
+Released : Released January 11, 2019
+```
+<br>
+<center><a href="https://genius.com/albums/Gnash/We" target="_blank" class="link-genius">View on Genius</a>
+</center>
+
 ### Sunset Season
 <br>
 <center><img src="https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2Fa4f8246db1a3ef98674be831fde29f12.1000x1000x1.png" class="img-album"></center>
