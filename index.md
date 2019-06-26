@@ -263,6 +263,20 @@ Released : Released April 26, 2017
 <center><a href="https://genius.com/albums/Rex-orange-county/Apricot-princess" target="_blank" class="link-genius">View on Genius</a>
 </center>
 
+### Perfectly Imperfect
+<br>
+<center><img src="https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2F7513f59ca280f468671d287db5fcd716.1000x1000x1.jpg" class="img-album"></center>
+<br>
+
+```
+By : Grace VanderWaal
+Released : December 2, 2016
+```
+
+<br>
+<center><a href="https://genius.com/albums/Grace-vanderwaal/Perfectly-imperfect-ep" target="_blank" class="link-genius">View on Genius</a>
+</center>
+
 ### Death of a Bachelor
 <br>
 <center><img src="https://t2.genius.com/unsafe/300x0/https%3A%2F%2Fimages.genius.com%2F436abd0ff115d7f1e6566400223b272b.1000x1000x1.jpg" class="img-album"></center>
