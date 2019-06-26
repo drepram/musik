@@ -1,6 +1,6 @@
 # My Music Collection
 
-a collection of the album's & ep's that i liked, read the <a href="/about.html">about page</a> for more info.
+a collection of the album's & ep's that i liked, read the <a href="/about.html">about page</a> for more info. stopped doing this on feb 2019 and instead just shows the latest <a href="http://moeziq.drepram.now.sh">18 recent tracks</a>, cause like, nothing is special and everything dies.
 
 <style>
 .img-album {
