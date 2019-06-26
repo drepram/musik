@@ -1,6 +1,6 @@
 module.exports = {
   title: 'musik',
-  description: `Andre Pramaditya's music collection`,
+  description: `drepram's music collection`,
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
