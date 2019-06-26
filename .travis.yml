@@ -9,9 +9,9 @@ install:
   - npm install
   - npm install -g vuepress
 script:
-  - vuepress build
+  - vuepress build site
 deploy:
   provider: surge
-  project: .vuepress/dist/
+  project: ./site/.vuepress/dist/
   domain: musik.surge.sh
   skip_cleanup: true
