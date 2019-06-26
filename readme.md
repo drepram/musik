@@ -1,5 +1,5 @@
 # musik.surge.sh
-[![Build Status](https://travis-ci.org/caxvis/musik.svg?branch=master)](https://travis-ci.org/caxvis/musik)
+[![Build Status](https://travis-ci.org/drepram/musik.svg?branch=master)](https://travis-ci.org/drepram/musik)
 
 My music collection. Thank's a lot **Genius**.
 
